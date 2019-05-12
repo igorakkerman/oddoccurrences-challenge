@@ -1,6 +1,7 @@
 # Python
 .cache
 __pycache__
+_trial_temp
 
 # PyCharm
 /.idea/workspace.xml
